@@ -1,8 +1,0 @@
-1. Problem statement (7)
-2. Layout (16)
-3. Code quality (18)
-4. Previous research (8)
-5. Gathering / generating, cleaning, and formatting data (8)
-6. Testing (7)
-7. Visualization (10)
-8. Communication (8)
