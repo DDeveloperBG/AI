@@ -1,22 +1,4 @@
-# Data Science
-## Final Project
-
-### Terms and conditions:
-By submitting your project for the exam, you agree with the following:
-* Use Jupyter notebook for text and maths. You can use any programming language you would like.
-* Write your research and code in English. Bulgarian is also acceptable but try to use English.
-* If you have sensitive, copyrighted, or copy-protected assets, including but not limited to, images, multimedia, code, documents, and datasets,
-  you can sign an NDA (non-disclosure agreement) with the SoftUni team. Contact the lecturer if you need assistance with the process.
-* Any code which does not comply with the Bulgarian law (as of the exam date), will be given zero points.
-* Any malicious code, or code intended to do harm to the user's computer, information, or privacy, will be given zero points.
-
-### Self-assessment:
-The numbers in brackets define possible points for the corresponding item.
-
-1. Problem statement (0-10)
-	* How well is the problem defined?
-	* Does the research address a real-life problem?
-	* Does the research solve the correct problem?
+1. Problem statement - 10
 2. Layout (0-20)
 	* Are the document sections structured properly?
 	* Is the article well-formatted (in terms of readability)?
